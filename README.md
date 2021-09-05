@@ -11,7 +11,7 @@ I also used iterations to validate information provided by user and make sure th
 
 Please find below a screenshot of a password 128-character long generated using my application.
 
-![alt text](https://github.com/imIgnacio/hm3-passwordGenerator/blob/main/Images/screenshot.png)
+![alt text](https://github.com/imIgnacio/hm3-passwordGenerator/blob/main/Images/screenshot.PNG)
 
 ### Link to the web page
 ### https://imignacio.github.io/hm3-passwordGenerator/
